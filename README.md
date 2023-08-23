@@ -12,5 +12,5 @@ Desenvolvi o site lugarespopulares.com como um exercício de integração do SL 
 Quanto a minha RL, sou formado em engenharia elétrica, engenharia da computação e análise de sistemas.<br>
 Comecei o curso de licenciatura em química pela federal de alfenas (EAD), mas, infelizmente por problemas pessoais não finalizei.<br>
 Fiz também sem finalizar o curso pós-graduação em desenvolvimento de aplicativos para dispositivos móveis, não finalizei por problemas pessoais e faltam apenas para acabar uma matéria e o TCC.<br><br>
-sem mais e com muitos projetos esperando<br>
+sem mais e com muitos projetos esperando!<br>
 Augustus!
