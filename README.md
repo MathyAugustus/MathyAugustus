@@ -8,5 +8,9 @@ Dei aulas também de Gestures. Tenho algumas apostilas in-world sobre o assunto.
 Tenho um ambiente de aulas in-world pronto para dar aulas automaticamente e para montar novos cursos basta configurar a aula toda em um notecard.<br>
 Desenvolvi o site lugarespopulares.com como um exercício de integração do SL com site em PHP com banco de dados e em breve irei publicar aqui.<br>
 <br>
+
+Quanto a minha RL, sou formado em engenharia elétrica, engenhari a da computação, analise de sistemas.<br>
+Comecei o curso de licenciatura em química pela federal de alfenas (EAD), mas, infelizmente por problemas pessoais não finalizei.<br>
+Fiz também sem finalizar o curso pós-graduação em desenvolvimento de aplicativos para dispositivos móveis, não finalizei por problemas pessoais e faltam apena spara acabar uma matéria e o TCC.<br>
 sem mais e com muitos projetos esperando<br>
 Augustus!
