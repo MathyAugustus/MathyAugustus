@@ -1,6 +1,6 @@
 Oi ? Meu nome é Augustus Mathy e eu sou um avatar do Second Life!<br>
 No Second Life já fui lojista e vendia roupas femininas, cheguei a ter 40 lojas e 3 shoppings cheios de roupas para avatares femininos.<br><br>
-Sou Scripter LSL e já fiz enumeros trabalhos pelo SL afora.<br>
+Sou Scripter LSL e já fiz inumeros trabalhos pelo SL afora.<br>
 Fui professor de LSL em diversas escolas inclusive dando aulas em inglês ( escrito ) pelo metaverso afora.<br>
 Fui professor de LSL na antiga GATE na Ilha da Ajuda ( onde sou Voluntário ) e em diversos lugares.<br>
 Possuo algumas video-aulas sobre o assunto em meu YouTube.<br>
